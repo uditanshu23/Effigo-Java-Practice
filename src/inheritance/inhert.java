@@ -13,7 +13,7 @@ class bike extends vehicle {
 }
 
 class car extends vehicle {
-	void property3() {
+	void property2() {
 		System.out.println("It runs on four wheels");
 	}
 }
