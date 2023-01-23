@@ -8,7 +8,7 @@ public class checkEmployee {
 		Employee e = new Employee();
 		e.setId(23);
 		e.setName("Uditanshu Satpathy");
-		e.setSalary(15000);
+		e.setSalary(1500);
 		e.setDepartment("IT");
 		
 		System.out.println("Employee ID: " + e.getId());
