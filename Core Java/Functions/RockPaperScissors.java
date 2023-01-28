@@ -9,9 +9,7 @@ public class RockPaperScissors {
         System.out.println("When I say 'shoot', Choose: rock, paper, or scissors.\n");
         System.out.println("Are you ready? Write 'yes' if you are.");
         String ready = scan.nextLine();
-       //Task 1: See if the user wants to play. 
 
-       //Task 2: Set up the game
 
         if (ready.equals("yes")) {
             System.out.println("\nGreat!");
@@ -57,16 +55,6 @@ public class RockPaperScissors {
         }
 
 
-        
-        //You can also use if statements:
-
-        // if (integer == 0) {
-        //     return "rock";
-        // } else if (integer == 1) {
-        //     return "paper";
-        // } else if (integer == 2) {
-        //     return "scissors";
-        // }
         
 
     } 
